@@ -7,9 +7,11 @@ Guidance on how to build & run this code can be found in [run.md](run.md).
 ### Screenshots
 #### GIFs
 40 Frames @ 8 FPS
+
 ![40 Frames @ 8 FPS](output_animation_40frames_8fps.gif)
 
 20 Frames @ 4 FPS
+
 ![20 Frames @ 4 FPS](output_animation_20frames_4fps.gif)
 
 #### Scene Initial State
